@@ -19,7 +19,7 @@ I'm a passionate developer who loves learning and staying up-to-date with the la
 - Git | GitHub  
 
 ### IDEs:  
-- IntelliJ IDEA | Eclipse | Visual Studio Code  
+- IntelliJ IDEA | Eclipse | Visual Studio Code | pycharm
 
 ---
 
