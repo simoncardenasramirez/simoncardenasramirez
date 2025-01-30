@@ -1,25 +1,22 @@
 # 👋 Hi, I'm Simon  
-
 I'm a passionate developer who loves learning and staying up-to-date with the latest technologies. I enjoy designing and developing enterprise applications that solve real-world challenges, focusing on scalability, performance, and clean code principles.  
-
----
 
 ## 🛠️ Skills  
 
 ### Languages:  
-- Java | Python  
+Java | Python | TypeScript  
 
 ### Frameworks and Libraries:  
-- Spring Boot  
+Spring Boot | Angular  
 
 ### Databases:  
-- PostgreSQL  
+PostgreSQL  
 
 ### Tools and Technologies:  
-- Git | GitHub  
+Git | GitHub  
 
 ### IDEs:  
-- IntelliJ IDEA | Eclipse | Visual Studio Code | pycharm
+IntelliJ IDEA | Eclipse | Visual Studio Code | PyCharm  
 
 ---
 
