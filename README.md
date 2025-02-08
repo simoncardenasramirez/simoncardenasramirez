@@ -27,6 +27,18 @@ Check out more of my projects on my [GitHub profile](https://github.com/simoncar
 ## 🌟 Connect with Me  
 
 - **LinkedIn**: [Simon Cárdenas Ramírez](https://www.linkedin.com/in/simon-cardenas-ram%C3%ADrez-0010a0248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWQrY6iIvSOa0zB3XJ8iHIg%3D%3D)  
-- **Email**: [simoncardenasramirez41@gmail.com](mailto:simoncardenasramirez41@gmail.com)  
+- **Email**: [simoncardenasramirez41@gmail.com](mailto:simoncardenasramirez41@gmail.com)
+
+
+<p align="center">  
+  <a href="https://github.com/simoncardenasramirez">    
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=simoncardenasramirez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
+  </a>  
+  <a href="https://github.com/simoncardenasramirez">    
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=simoncardenasramirez&layout=compact&langs_count=8&theme=algolia"/>  
+  </a>  
+</p>
+
+
 
 Thanks for visiting my profile! 🚀  
